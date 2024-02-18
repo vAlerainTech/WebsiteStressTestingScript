@@ -1,5 +1,7 @@
 # WebsiteStressTestingScript
 
+[中文介绍](https://github.com/WhiteFoxLinux/WebsiteStressTestingScript/blob/main/README-cn.md)
+
 Website stress testing script, written in Python
 
 Based on Python, supports versions above Python (3.7. x)
