@@ -6,8 +6,4 @@ Based on Python, supports versions above Python (3.7. x)
 
 ## Recommended version: Python 3.7.11
 
-网站压力测试脚本
-
-基于python，支持版本在python(3.7.x)以上
-
-## 推荐版本：Python 3.7.11
+Why do we recommend this version? Because the author wrote this version based on this foundation, of course, it is not necessary to use this version, and higher versions are generally acceptable.
